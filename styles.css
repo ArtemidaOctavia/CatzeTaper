@@ -1,0 +1,75 @@
+.game_holder {
+    position: relative;
+    display: inline-block;
+    width: 600px;
+    height: 450px;
+    border: 1px solid black;
+}
+
+.catze_holder {
+    display: inline-block;
+}
+
+.dieCatze {
+
+}
+
+.words_holder {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.requiredWord {
+    text-align: center;
+    width: 400px;
+    margin-left: 15%;
+    display: block;
+    font-size: 40px;
+    border: 1px solid black;
+    height: 50px;
+}
+
+.userWord {
+    text-align: center;
+    width: 400px;
+    margin-left: 15%;
+    margin-top: 10px;
+    font-size: 40px;
+    border: 1px solid black;
+    display: block;
+    height: 50px;
+}
+
+.motivator_holder {
+
+}
+
+.motivator {
+    font-size: 40px;
+}
+
+.statistic_holder {
+    margin-top: 20px;
+    height: 150px;
+}
+
+.average-statistic {
+    display: inline-block;
+    text-align: center;
+}
+
+.statistic {
+    height: 200px;
+    overflow:hidden;
+    overflow-y:scroll;
+}
+
+.success_holder {
+}
+
+.success {
+    height: 25px;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
